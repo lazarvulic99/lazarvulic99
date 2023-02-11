@@ -3,15 +3,15 @@
 
 ### My background
 - 👋 I'm Lazar Vulić and I'm currently MSc student at School of Electrical Engineering, University of Belgrade, department for Software Developing.
-- 👀 I’m interested in databases, Java programming and web design
+- 👀 I’m interested in databases, Java programming and web design.
 - 🏫 I also hold BCs degree from School of Electrical Engineering, University of Belgrade, department for Computer Engineering and Information Theory.
 ---
 
 ###  About myself
 
-- I live on a relation Jagodina - Belgrade
-- I’m currently learning Android Developing and Java Spring
-- I enjoy watching and playing basketball
+- I live on a relation Jagodina - Belgrade.
+- I’m currently learning Android Developing and Java Spring.
+- I enjoy watching and playing basketball.
 
 ---
 
